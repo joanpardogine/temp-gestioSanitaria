@@ -51,7 +51,9 @@ taula_missatges[2]=[];
 taula_missatges[2][intTitol]="El camp Nom Hospital és obligatori!";
 taula_missatges[2][intMissatge]="Cal que entris un nom al camp Hospital!";
 
-//    let metge = new Metge('Ivan', 'Soriano', '12345678A', 'Oncologia');
+//    let metge = new Metge('Ivan', 'Nieto', '12345678A', 'Oncologia');
+//     alert(JSON.stringify(metge));
+//    let pacient = new Pacient('Vladi', 'Bellavista', '25896354A', 'Refredat');
 //     alert(JSON.stringify(metge));
 
 function comprovaCampBuit(objecteRebut) {
