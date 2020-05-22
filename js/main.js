@@ -54,6 +54,14 @@ taula_missatges[2][intMissatge]="Cal que entris un nom al camp Hospital!";
 //    let metge = new Metge('Ivan', 'Soriano', '12345678A', 'Oncologia');
 //     alert(JSON.stringify(metge));
 
+/*
+//    let metge = new Metge('Ivan', 'Nieto', '12345678A', 'Oncologia');
+//    let pacient = new Pacient('Vladi', 'Bellavista', '54789628G', 'Refredat');
+//     alert(JSON.stringify(metge));
+
+
+*/
+
 function comprovaCampBuit(objecteRebut) {
       if (objecteRebut.value == "") {
             mostraMissatge(2);
